@@ -9,198 +9,139 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Laura
+    last_name: Cruz
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto:  Do one thing at a time and you’ll actually get things done.
     
     # Focus
-    focus: Killing Bad Boys
+    focus: Data Science
     
     # You have 1 paragraph to make a great impression, summarize your career
-    summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    summary: 
+    Industrial Engineer with eight years of experience working in various sectors. 
+    I am eager to enter the world of Business Analytics and Data Science, with experience in data processing, 
+    statistical analysis, and data visualization, enabling me to translate information into valuable insights.
+    My short-term goal is to work at a company that offers opportunities for professional growth, 
+    where I can contribute fully to data analysis projects.
 
-      Second paragraph if required.
-    
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
-
+  
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    email: laurac.89@gmail.com #optional
+    phone: 643 38 71 84 #optional
+    linkedin: www.linkedin.com/in/laura-cruz-gil #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
-    
-    twitter: 'webjeda' #optional
+    github: https://github.com/Laura-Cruz-Gil
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Intermediate 
 
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Cooking
 
       - item: Snowboarding
 
-      - item: Cooking
+      - item: Trekking
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Master in Business Intelligence and Technological Innovation
+      university: EAE BUSINESS SCHOOL           
+
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      university_logo: https://upload.wikimedia.org/wikipedia/commons/a/ac/EAE-Business-School.png
+      time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Full Time Program designed to train professionals in the area of new Information Technologies and Business Intelligence, 
+        always with the vision of meeting the demands of companies and institutions at all times. To this end, it offers a clear synergy between technology and management, 
+        allowing participants to develop the necessary skills and techniques in the area of Business Intelligence and Technological Innovation 
+        to lead information technology projects in various sectors of the economy.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: Industrial Engineering 
+      university: University Francisco José de Caldas
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      university_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlDsDZWzcfRK3kjWG7H1Y_ys-eHxv1Xuusw&s
+      time: 2008 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        The Industrial Organization Engineer's training allows to contribute special value in the improvement of productivity 
+        and the use of resources of companies and institutions of the most varied sectors through the integration of innovation and technologies.
+       
 
 # Your previous job experiences or volunteer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Process Support
+      time: 2019 - Present
+      company: Tata Consultancy Services 
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://www.mmaglobal.com/files/logos/tcs.ns-7401f1bd.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       Global infrastructure support for Integration and Web technologies and application servers (Tibco, JBoss DV, Webmethods, Apache, Tomcat, JBoss and  IIS
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Process Engineer
+      time: 2019
+      company: ING España & Portugal 
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ING_Group_N.V._Logo.svg/390px-ING_Group_N.V._Logo.svg.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        *Drive and guide development processes within the company using project management methodologies such as Kaizen,
+        and application of agile Scrum and Kanban methodologies for collaborative teams.
+        *Mapping of ING's local GDPR processing inventory according to the European Union's General Data Protection Regulation (GDPR). 
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Statistical Analyst
+      time: 2018 - 2019
+      company: Correos y Telégrafos S.A. 
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Correos_2019.svg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        *Design, analysis and monitoring of package traceability through reports in SAP Web Intelligence.
+        *Execution and publication of dashboards with Power View to facilitate decision making
 
-          - Bullet point
-          - Bullet point
 
 # Your project portfolio
-projects:
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#    assignments:
+#      - title: Velocity
+#        # optional
+#        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 50%
 
-      - name: JavaScript & jQuery
-        level: 98%
+      - name: Agile Metodologies
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: R Studio
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Tableau
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Power BI
+        level: 40%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 20%
